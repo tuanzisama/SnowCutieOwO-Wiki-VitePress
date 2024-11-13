@@ -1,0 +1,22 @@
+{
+  "name": "SnowCutieOwO-VitePress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tinymd/md2json": "^0.0.2",
+    "@types/node": "^22.9.0",
+    "markdown-it": "^14.1.0",
+    "tiny-glob": "^0.2.9",
+    "vitepress": "^1.5.0"
+  }
+}
